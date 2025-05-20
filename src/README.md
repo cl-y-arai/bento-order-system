@@ -21,8 +21,8 @@
 
 1. リポジトリのクローン
 ```bash
-git clone [リポジトリURL]
-cd [プロジェクト名]
+git clone https://github.com/cl-y-arai/bento-order-system.git
+cd bento-order-system
 ```
 
 2. 依存パッケージのインストール
